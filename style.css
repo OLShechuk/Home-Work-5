@@ -1,0 +1,54 @@
+.ul {
+    font-size: 25px;
+    color: rgb(23, 35, 72);
+    background-color: rgb(197, 173, 144);
+    font-family: 'Bruno Ace', cursive;
+    width: 355px;
+    }
+    .container {
+        max-width: 1280px;
+        padding-left: 10px;
+        padding-right: 10px;
+        text-align: center;
+        font-size: 25px;
+        background-color: rgb(129, 139, 129);
+        
+
+    }
+    .h1 {
+        text-align: center;
+        background-color: darkgrey;
+        margin-top: 0px;
+        color: rgb(108, 67, 13);
+        font-family: 'Montserrat', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Roboto Slab', serif;
+        
+
+    }
+    .pmain {
+        font-family: 'Montserrat', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        color: burlywood;
+        margin: 5px 5px; 
+        padding-top: 25px;     
+    }
+    .a {
+        background-color: blue;
+        color: yellow;
+        display: inline-block;
+        align-items: center;
+        justify-content: center;
+        text-decoration: none;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 12px 16px;
+        border-radius: 100px;
+        
+        
+        
+
+        
+
+    }
